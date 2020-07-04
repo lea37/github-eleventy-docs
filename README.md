@@ -1,2 +1,2 @@
-# eleventy-githubpages-demo-dist
-Same as eleventy-githubpages-demo but with another approach.
+# gh-pages-eleventy
+Is a github pages and eleventy demo to show how you can use github pages to publish your eleventy site. 
